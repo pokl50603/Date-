@@ -16,6 +16,7 @@
 		3C4DEF4E28D59C8D00A95B2B /* A209HelloNewVCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4DEF4D28D59C8D00A95B2B /* A209HelloNewVCTests.swift */; };
 		3C4DEF5828D59C8D00A95B2B /* A209HelloNewVCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4DEF5728D59C8D00A95B2B /* A209HelloNewVCUITests.swift */; };
 		3C4DEF5A28D59C8D00A95B2B /* A209HelloNewVCUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4DEF5928D59C8D00A95B2B /* A209HelloNewVCUITestsLaunchTests.swift */; };
+		3C4DEF6B28D5A20900A95B2B /* Page2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C4DEF6A28D5A20900A95B2B /* Page2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3C4DEF5328D59C8D00A95B2B /* A209HelloNewVCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = A209HelloNewVCUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C4DEF5728D59C8D00A95B2B /* A209HelloNewVCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A209HelloNewVCUITests.swift; sourceTree = "<group>"; };
 		3C4DEF5928D59C8D00A95B2B /* A209HelloNewVCUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = A209HelloNewVCUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3C4DEF6A28D5A20900A95B2B /* Page2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Page2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				3C4DEF3F28D59C8D00A95B2B /* Assets.xcassets */,
 				3C4DEF4128D59C8D00A95B2B /* LaunchScreen.storyboard */,
 				3C4DEF4428D59C8D00A95B2B /* Info.plist */,
+				3C4DEF6A28D5A20900A95B2B /* Page2ViewController.swift */,
 			);
 			path = A209HelloNewVC;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				3C4DEF3B28D59C8D00A95B2B /* ViewController.swift in Sources */,
 				3C4DEF3728D59C8D00A95B2B /* AppDelegate.swift in Sources */,
+				3C4DEF6B28D5A20900A95B2B /* Page2ViewController.swift in Sources */,
 				3C4DEF3928D59C8D00A95B2B /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
